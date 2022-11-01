@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.DS_Store
+history.txt
+*.synctex
+*.synctex.gz
+*.aux
+*.blg
+*.gz
+*.out
+*.log
+*.bbl
+*.sublime-project
+*.sublime-workspace
